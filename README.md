@@ -15,7 +15,7 @@ This is infotainment solution for my car based on raspberry PI 2.
 * XOMAX XM-DTSB92 - car radio / Multimedia Player + 18 cm / 7 "High definition HD touchscreen display + Audio & Video + rear camera connection
 * HDMI to AV
 * Rear view camera
-* Power supply
+* Power supply (12  to USB)
 * Rapsberry Pi parts
   + sonar
   + front camera
@@ -27,9 +27,16 @@ Full parts specification: [parts specs + where to buy](https://github.com/yarent
 # SOFTWARE
 ## iPhone tethering
 [iPhone tethering](https://github.com/yarenty/raspberry_car_infotainment/wiki/iPhone-tethering-Raspberry-PI)
-## Indicators
 
-## Other
+## Raspberry indicators software
+* movement detector
+* sonar
+* buzzer [?]
+* relay [?]
+* servo
 
+## Other software
+* media players
+* java?
+* dashboard?
 
- 
